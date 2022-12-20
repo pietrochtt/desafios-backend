@@ -14,7 +14,7 @@ class ProductManager {
         else product.id = this.getProducts().length + 1; this.products.push(product);
     }
 
-    getProductById(product) {
+    getProductById(id) {
         let buscarId = id;
         let miProducto = null;
         this.products.forEach((product) => {
