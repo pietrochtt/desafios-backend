@@ -16,17 +16,12 @@ class ProductManager {
 
     getProductById(id) {
         let buscarId = id;
-        let miProducto = null;
+
         this.products.forEach((product) => {
             if (product.id === buscarId) {
-                miProducto = product;
+                console.log(product);
             }
-        });
-        if (miProducto = null) {
-            return console.log("Not found");
-        } else {
-            return miProducto;
-        }
+        })
     }
 }
 
