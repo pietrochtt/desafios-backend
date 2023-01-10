@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Leche",
+        "id": "1",
+        "description": "Bebida",
+        "price": "400",
+        "thumbnail": "",
+        "code": 1,
+        "stock": 47
+    },
+    {
+        "title": "Harina",
+        "id": "2",
+        "description": "Harina 0000",
+        "price": "300",
+        "thumbnail": "",
+        "code": "45",
+        "stock": "35"
+    },
+    {
+        "title": "Arroz",
+        "id": "3",
+        "description": "Arroz integral",
+        "price": "250",
+        "thumbnail": "",
+        "code": "13",
+        "stock": "68"
+    },
+    {
+        "title": "Tomate",
+        "id": "4",
+        "description": "Fruta",
+        "price": "70",
+        "thumbnail": "",
+        "code": "78",
+        "stock": "120"
+    }
+]
